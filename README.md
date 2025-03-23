@@ -1,4 +1,4 @@
-# linear_regression
+# machine learning
 
 used pandas library and numpy
 used matplotlib.pyplot to plot the graph
